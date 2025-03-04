@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { Github, Loader2, CheckCircle, AlertCircle, Terminal, ExternalLink, Rocket, Package, Code, Zap, Server } from 'lucide-react';
+import { Github, Loader2, CheckCircle, AlertCircle, ExternalLink, Rocket, Package, Code, Zap, Server } from 'lucide-react';
 import { io, Socket } from 'socket.io-client';
 
 // Define types
